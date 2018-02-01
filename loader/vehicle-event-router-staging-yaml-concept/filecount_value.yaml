@@ -1,7 +1,0 @@
-Files:
-  -
-    name: 'routed_events.MYD'
-    dir_path: '/mnt/database/mysql/events'
-  -
-    name: 'events.MYD'
-    dir_path: '/mnt/database/mysql/events'

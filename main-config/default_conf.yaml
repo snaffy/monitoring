@@ -1,0 +1,12 @@
+database:
+  interval: 400
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  password: RootPassCh1HXKs24
+mysql_monitor:
+  host: 127.0.0.1
+  user: collectd
+  password: Fat4ohse
+  port: 3306
